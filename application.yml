@@ -1,4 +1,4 @@
 my:
- greeting: Welcome to Spring Cloud Updated 2024
+ greeting: Welcome to Spring Cloud
  list:
-   fruits: apple,banana,mango,papaya,strawberry,watermelon,Guava
+   fruits: apple,banana,mango
